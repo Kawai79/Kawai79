@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teqz</h1>
 
 <p align=center>
-  <a href="https://discord.com/users/1029845126564024340"><img src="https://lanyard-profile-readme.vercel.app/api/599906778238418960" width=45%></a>
+  <a href="https://discord.com/users/599906778238418960"><img src="https://lanyard-profile-readme.vercel.app/api/599906778238418960" width=45%></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawai79&label=Profile%20views&color=0e75b6&style=flat" alt="kawai79" /> </p>
